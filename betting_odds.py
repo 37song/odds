@@ -7,7 +7,8 @@ import streamlit as st
 st.set_page_config(layout="centered", page_title="Betting Odds", page_icon="📊")
 
 # 타이틀 추가
-st.title('Betting Odds')
+st.title('BetterJin309')
+st.subheader('Betting Odds')
 
 # 스포츠 나열
 sports = ['축구','농구','야구']
